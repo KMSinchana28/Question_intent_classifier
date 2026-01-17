@@ -1,0 +1,36 @@
+question,intent
+What is machine learning?,Definition
+What is artificial intelligence?,Definition
+What is data science?,Definition
+What is cloud computing?,Definition
+Define operating system,Definition
+
+How to install Python?,HowTo
+How to deploy ML model?,HowTo
+How to learn machine learning?,HowTo
+How to create virtual environment?,HowTo
+How to connect MongoDB?,HowTo
+
+Why is Python popular?,Reason
+Why does overfitting occur?,Reason
+Why is normalization needed?,Reason
+Why do we need databases?,Reason
+Why is recursion used?,Reason
+
+Who invented Python?,Fact
+Who invented C language?,Fact
+Who is founder of Google?,Fact
+When was Java released?,Fact
+Where is Silicon Valley?,Fact
+
+Compare Python and Java,Comparison
+Difference between SQL and NoSQL,Comparison
+Compare CNN and RNN,Comparison
+Difference between list and tuple,Comparison
+Compare supervised and unsupervised learning,Comparison
+
+Is Python dynamically typed?,YesNo
+Is machine learning hard?,YesNo
+Can Java run on any OS?,YesNo
+Is SQL a programming language?,YesNo
+Does AI replace humans?,YesNo
